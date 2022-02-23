@@ -9,8 +9,9 @@
             <pages>
                 <Page id="page" title="{i18n>title}">
                     <content >
-                    <!-- <Text  text="First commit"></Text> -->
+                    <Text  text="First commit"></Text>
                     <Text  text="Second commit"></Text>
+                    <Text  text="Third commit"></Text>
                     </content>
                 </Page>
             </pages>
