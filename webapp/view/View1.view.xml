@@ -10,6 +10,7 @@
                 <Page id="page" title="{i18n>title}">
                     <content >
                     <Text text="testing"></Text>
+                    <Input value="123"></Input>
                     </content>
                 </Page>
             </pages>
